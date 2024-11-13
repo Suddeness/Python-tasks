@@ -1,0 +1,51 @@
+{
+    "students_id": {
+        "1": [
+            "name",
+            "group",
+            "course"
+        ],
+        "2": [
+            "Nikola Abola",
+            "ff-33g",
+            "some"
+        ]
+    },
+    "groups": {
+        "group": {
+            "english": {
+                "name": [
+                    5,
+                    3,
+                    4
+                ]
+            },
+            "math": {
+                "name": [
+                    3,
+                    4
+                ]
+            },
+            "programming": {
+                "name": [
+                    5,
+                    4
+                ]
+            }
+        },
+        "ff-33g": {
+            "physic": [
+                3,
+                3
+            ],
+            "math": [
+                4,
+                4
+            ],
+            "geogr": [
+                5,
+                5
+            ]
+        }
+    }
+}
