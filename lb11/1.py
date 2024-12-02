@@ -1,4 +1,6 @@
 import csv
+from csv import DictReader
+
 
 def write_csv():
     try:
@@ -76,13 +78,17 @@ def show():
                 return
 
 def mind_mid():
-    tk = input("what u want to do? (enter a number)\n 1->show data, 2->write, 3->check and write")
-    if tk == 1:
-        show()
-    elif tk == 2:
-        write_csv()
-    elif tk == 3:
-        check_write_csv()
-    else:
-        print("._.")
-        return
+    try:
+        tk = int(input("what u want to do? (enter a number)\n 1->show data, 2->write, 3->check and write: "))
+        if tk == 1:
+            show()
+        elif tk == 2:
+            write_csv()
+        elif tk == 3:
+            check_write_csv()
+        else:
+            print("._.")
+            return
+    except ValueError:
+        for i in range(0, 11):
+            print ("._.  ._.  ._.  ._.  ._.  ._.  ._.  ._.  ._.  ._.")
