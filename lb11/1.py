@@ -1,6 +1,4 @@
 import csv
-from csv import DictReader
-
 
 def write_csv():
     try:
