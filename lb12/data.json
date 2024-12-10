@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "last_name": "Kovalchuk",
+      "salary": 15000,
+      "position": "Manager",
+      "gender": "Male"
+    },
+    {
+      "last_name": "Ivanenko",
+      "salary": 12000,
+      "position": "Accountant",
+      "gender": "Female"
+    },
+    {
+      "last_name": "Petrenko",
+      "salary": 18000,
+      "position": "Engineer",
+      "gender": "Male"
+    },
+    {
+      "last_name": "Sidorenko",
+      "salary": 13000,
+      "position": "HR Specialist",
+      "gender": "Female"
+    },
+    {
+      "last_name": "Gnatyuk",
+      "salary": 20000,
+      "position": "Director",
+      "gender": "Male"
+    },
+    {
+      "last_name": "Melnyk",
+      "salary": 14000,
+      "position": "Marketer",
+      "gender": "Female"
+    },
+    {
+      "last_name": "Shevchenko",
+      "salary": 16000,
+      "position": "Programmer",
+      "gender": "Male"
+    },
+    {
+      "last_name": "Kravchenko",
+      "salary": 11000,
+      "position": "Secretary",
+      "gender": "Female"
+    },
+    {
+      "last_name": "Bondarenko",
+      "salary": 12500,
+      "position": "Analyst",
+      "gender": "Male"
+    },
+    {
+      "last_name": "Zakharova",
+      "salary": 13500,
+      "position": "Designer",
+      "gender": "Female"
+    }
+  ]
+}
