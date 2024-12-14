@@ -1,0 +1,12 @@
+[
+    {
+        "name": "2B",
+        "type": "android",
+        "health": "10000"
+    },
+    {
+        "name": "2S",
+        "type": "android",
+        "health": "7000"
+    }
+]

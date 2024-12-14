@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Eve",
+        "type": "robot",
+        "health": "11000"
+    },
+    {
+        "name": "Commander",
+        "type": "android",
+        "health": "9500"
+    },
+    {
+        "name": "2B",
+        "type": "android",
+        "health": "10000"
+    },
+    {
+        "name": "2S",
+        "type": "android",
+        "health": "7000"
+    },
+    {
+        "name": "A2",
+        "type": "android ",
+        "health": "9500"
+    },
+    {
+        "name": "Adam",
+        "type": "robot",
+        "health": "12000"
+    }
+]
