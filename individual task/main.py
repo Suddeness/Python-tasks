@@ -67,5 +67,5 @@ def search(pg_num):
         json.dump(data, file, indent=4)
     time.sleep(1)
 
-
-search(int(input("enter page quantity: ")))
+if __name__ == "__main__":
+    search(int(input("enter page quantity: ")))
